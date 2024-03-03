@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.group-control{
+  margin: 15px 0;
+}
+.label-control{
+  margin-right: 15px;
+}
+.error{
+  color:#ff0000;
+  font-size: 14px;
+}
